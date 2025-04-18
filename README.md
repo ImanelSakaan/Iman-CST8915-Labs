@@ -20,11 +20,10 @@
 - ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=pWRiH2ZUHQg)
 
 
-## Lab 3 - CST8915 Full-stack Cloud-native Development  
+## 📄 Lab 3 - CST8915 Full-stack Cloud-native Development  
 **Deploying the Algonquin Pet Store on Azure**
 
 - 📁 [Lab 3 Repository](https://github.com/ramymohamed10/Lab3_25W_CST8915)  
-- 📄 [Lab Instructions](https://github.com/ramymohamed10/Lab3_25W_CST8915)
 
 ### 🎥 Video Tutorial
 - ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=uR8OtB1kOr8)
@@ -33,7 +32,6 @@
 **Introduction to Docker**
 
 - 📁 [Lab 4 Repository](https://github.com/ramymohamed10/Lab4_25W_CST8915)  
-- 📄 [Lab Instructions](https://github.com/ramymohamed10/Lab4_25W_CST8915)
 
 ---
 
@@ -57,7 +55,6 @@
 **Containerizing the Algonquin Pet Store with Docker**
 
 - 📁 [Lab 5 Repository](https://github.com/ramymohamed10/Lab5_25W_CST8915)  
-- 📄 [Lab Instructions](https://github.com/ramymohamed10/Lab5_25W_CST8915)
 
 ---
 
@@ -69,7 +66,6 @@
 **Deploy Algonquin Pet Store to Azure Kubernetes Service (AKS)**
 
 - 📁 [Lab 6 Repository](https://github.com/ramymohamed10/Lab6_25W_CST8915/blob/main/README.md)  
-- 📄 [Lab Instructions](https://github.com/ramymohamed10/Lab6_25W_CST8915/blob/main/README.md)
 
 ---
 
