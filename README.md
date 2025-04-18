@@ -1,5 +1,8 @@
-My Labs
-# Lab 1
+# My Labs
+
+# Lab 1 Lab 1: Running the Algonquin Pet Store on an Azure VM and Locally
+https://github.com/ramymohamed10/Lab1_24F_CST8915
+
 
 # Lab 2
 
