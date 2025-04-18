@@ -28,7 +28,7 @@
 ### 🎥 Video Tutorial
 - ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=uR8OtB1kOr8)
 
-## Lab 4 - CST8915 Full-stack Cloud-native Development  
+## Lab 4 - CST8915 Full-stack Cloud-native Development: Introduction to Docker  
 **Introduction to Docker**
 
 - 📁 [Lab 4 Repository](https://github.com/ramymohamed10/Lab4_25W_CST8915)  
